@@ -1,0 +1,12 @@
+0.7
+2020.2
+Jul 28 2021
+13:32:51
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sim_1/new/tb_repetation_count.v,1635521748,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sim_1/new/test_bench.v,,tb_repetation_count,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sim_1/new/test_bench.v,1635530214,verilog,,,,test_bench,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Default.v,1635516995,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Output.v,,LFSR_Default,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Input.v,1635525528,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sim_1/new/tb_repetation_count.v,,LFSR_Input,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Logic.v,1635438308,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Default.v,,LFSR_Logic,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Main.v,1635530955,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Input.v,,LFSR_Main,,,,,,,,
+D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Output.v,1635522366,verilog,,D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.srcs/sources_1/new/LFSR_Main.v,,LFSR_Output,,,,,,,,

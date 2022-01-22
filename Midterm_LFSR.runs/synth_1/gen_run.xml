@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a200tfbv676-2L" LaunchTime="1640356931">
+  <File Type="PA-TCL" Name="LFSR_Main.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="LFSR_Main_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="LFSR_Main_reports.tcl"/>
+  <File Type="RDS-RDS" Name="LFSR_Main.vds"/>
+  <File Type="RDS-UTIL" Name="LFSR_Main_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="LFSR_Main_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="LFSR_Main.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="LFSR_Main_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="LFSR_Main_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/LFSR_Logic.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LSFR_XOR_Tap/LSFR_XOR_Tap.srcs/sources_1/new/LFSR_Logic.v"/>
+        <Attr Name="ImportTime" Val="1635347779"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LFSR_Default.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LSFR_XOR_Tap/LSFR_XOR_Tap.srcs/sources_1/new/LFSR_Default.v"/>
+        <Attr Name="ImportTime" Val="1635348797"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LFSR_Output.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LSFR_XOR_Tap/LSFR_XOR_Tap.srcs/sources_1/new/LFSR_Output.v"/>
+        <Attr Name="ImportTime" Val="1635349835"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LFSR_Main.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LFSR_Input.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="LFSR_Main"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2021">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

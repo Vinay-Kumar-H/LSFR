@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Midterm_LFSR.srcs/sources_1/new/LFSR_Logic.v" \
+"../../../../Midterm_LFSR.srcs/sources_1/new/LFSR_Default.v" \
+"../../../../Midterm_LFSR.srcs/sources_1/new/LFSR_Output.v" \
+"../../../../Midterm_LFSR.srcs/sources_1/new/LFSR_Main.v" \
+"../../../../Midterm_LFSR.srcs/sources_1/new/LFSR_Input.v" \
+"../../../../Midterm_LFSR.srcs/sim_1/new/tb_repetation_count.v" \
+"../../../../Midterm_LFSR.srcs/sim_1/new/test_bench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

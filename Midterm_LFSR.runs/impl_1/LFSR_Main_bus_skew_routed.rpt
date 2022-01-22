@@ -1,0 +1,15 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1.1 (win64) Build 3286242 Wed Jul 28 13:10:47 MDT 2021
+| Date         : Fri Dec 24 09:43:53 2021
+| Host         : DESKTOP-N06I001 running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file LFSR_Main_bus_skew_routed.rpt -pb LFSR_Main_bus_skew_routed.pb -rpx LFSR_Main_bus_skew_routed.rpx
+| Design       : LFSR_Main
+| Device       : 7a200t-fbv676
+| Speed File   : -2L  PRODUCTION 1.23 2018-06-13
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

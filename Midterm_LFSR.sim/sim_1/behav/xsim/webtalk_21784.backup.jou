@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Fri Oct 29 12:10:55 2021
+# Process ID: 21784
+# Current directory: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Default value is set as expected
+Ouput is LFSR of default value
+seed value is not set as expected
+Default value is not set as expected

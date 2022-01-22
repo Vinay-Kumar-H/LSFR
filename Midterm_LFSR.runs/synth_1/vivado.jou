@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Fri Dec 24 09:42:13 2021
+# Process ID: 32
+# Current directory: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.runs/synth_1
+# Command line: vivado.exe -log LFSR_Main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LFSR_Main.tcl
+# Log file: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.runs/synth_1/LFSR_Main.vds
+# Journal file: D:/Software/Xilinx/Projects/Midterm_LFSR/Midterm_LFSR.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source LFSR_Main.tcl -notrace
